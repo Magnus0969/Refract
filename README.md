@@ -87,6 +87,7 @@ python app.py
 ---
 
 ## ✨ Future Improvements
+- Create own ReAct prompt
 - Support for more tools (e.g., Wolfram, Wikipedia API, Paper API)
 - RAG-based memory integration
 - Support for larger Qwen variants or open-source alternatives
