@@ -38,7 +38,7 @@ Built using the ReAct (Reasoning + Acting) paradigm, it leverages large language
 ## 📁 Folder Structure
 
 ```
-IPC-Simulator/
+Refract/
 ├── main.py # Main entry point for the agent
 ├── llm.py # Model logic and ReAct prompt templates
 ├── tools.py # Executes Search[...] and Scrape[...] actions
