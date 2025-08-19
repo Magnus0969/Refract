@@ -75,7 +75,7 @@ playwright install
 ### 4. Run the agent
 
 ```bash
-python app.py
+python main.py
 ```
 ---
 
